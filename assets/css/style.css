@@ -16,6 +16,23 @@ body {
   scroll-behavior: smooth;
   font-size: 14px;
 }
+.intro11-slider-wrap {
+  position: relative;
+  width: 100%;
+}
+
+.intro11-slider {
+  display: flex;
+  overflow: hidden;
+}
+
+.intro11-section {
+  flex-shrink: 0;
+  width: 100%;
+}
+
+
+
 
 h1,
 h2,
